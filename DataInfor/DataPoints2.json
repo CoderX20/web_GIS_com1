@@ -10175,54 +10175,48 @@
       }
     }
   ],
-  "pie_infor": [
-    {
-      "ch4": {
-        "high": {
-          "value": 83,
-          "name": "high(>=1)"
-        },
-        "mid": {
-          "value": 79,
-          "name": "mid(0.5-1)"
-        },
-        "low": {
-          "value": 516,
-          "name": "low(<=0.5)"
-        }
+  "pie_infor": {
+    "ch4": [
+      {
+        "value": 83,
+        "name": "high(>=1)"
+      },
+      {
+        "value": 79,
+        "name": "mid(0.5-1)"
+      },
+      {
+        "value": 516,
+        "name": "low(<=0.5)"
       }
-    },
-    {
-      "h2s": {
-        "high": {
-          "value": 8,
-          "name": "high(>=10)"
-        },
-        "mid": {
-          "value": 42,
-          "name": "mid(2-10)"
-        },
-        "low": {
-          "value": 628,
-          "name": "low(<=2)"
-        }
+    ],
+    "h2s": [
+      {
+        "value": 8,
+        "name": "high(>=10)"
+      },
+      {
+        "value": 42,
+        "name": "mid(2-10)"
+      },
+      {
+        "value": 628,
+        "name": "low(<=2)"
       }
-    },
-    {
-      "level": {
-        "first": {
-          "value": 64,
-          "name": "一级报警"
-        },
-        "second": {
-          "value": 12,
-          "name": "二级报警"
-        },
-        "normal": {
-          "value": 602,
-          "name": "正常"
-        }
+    ],
+    "level": [
+      {
+        "value": 64,
+        "name": "一级报警"
+      },
+      {
+        "value": 12,
+        "name": "二级报警"
+      },
+      {
+        "value": 602,
+        "name": "正常"
       }
-    }
-  ]
+    ]
+  }
 }
