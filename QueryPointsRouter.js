@@ -9,7 +9,7 @@ var sql_config={}
 Query.post("/queryPoint",function(request,response){
     var id=request.query.id
     console.log("Query point id="+id+" when "+time.get_time_now())
-    fs.readFile(path.join(__dirname,"./DataInfor/onePoints1.json"),"utf-8",function(err,data){
+    fs.readFile(path.join(__dirname,"./DataInfor/onePoints.json"),"utf-8",function(err,data){
         if(err){
             throw err
         }

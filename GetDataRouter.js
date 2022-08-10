@@ -8,7 +8,9 @@ function get_points_data(){
     for(i=0;i<=60;i+=30){
         rule.second.push(i)
     }
-    
+    var list=[]
+    list=JSON.parse(list)
+    console.log(list.length)
     schedule.scheduleJob(rule,function(){
         // console.log(time.get_time_now())
         fs.readFile(path.join(__dirname,"./DataInfor/PointsInfor.json"),"utf-8",function(err,data){
