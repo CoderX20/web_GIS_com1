@@ -19,7 +19,7 @@ function get_points_data(){
             else{
                 var points_data=JSON.parse(data)
                 for(i=0;i<points_data.length;i++){
-                    console.log(points_data[i].properties.id)
+                    // console.log(points_data[i].properties.id)
                 }
             }
         })
