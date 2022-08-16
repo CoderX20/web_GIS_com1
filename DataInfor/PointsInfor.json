@@ -1,5 +1,5 @@
-[
-  {
+{
+  "p2570": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -14,7 +14,7 @@
       "area": "劳动路居民楼2栋门口"
     }
   },
-  {
+  "p2578": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -29,7 +29,7 @@
       "area": "武成路14号"
     }
   },
-  {
+  "p2701": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -44,7 +44,7 @@
       "area": "立合微航大门口"
     }
   },
-  {
+  "p2707": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -59,7 +59,7 @@
       "area": "蜀强印务对面右边"
     }
   },
-  {
+  "p2715": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -74,7 +74,7 @@
       "area": "顶鑫科技大门左侧"
     }
   },
-  {
+  "p2723": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -89,7 +89,7 @@
       "area": "园区管委会对面"
     }
   },
-  {
+  "p2724": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -104,7 +104,7 @@
       "area": "党校办公楼前面"
     }
   },
-  {
+  "p2725": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -119,7 +119,7 @@
       "area": "蜀强印务对面左边"
     }
   },
-  {
+  "p2728": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -134,7 +134,7 @@
       "area": "荆山路与利民路交界处"
     }
   },
-  {
+  "p2731": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -149,7 +149,7 @@
       "area": "老泸州酒厂门口右侧"
     }
   },
-  {
+  "p2737": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -164,7 +164,7 @@
       "area": "党校广场花园酒店"
     }
   },
-  {
+  "p2739": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -179,7 +179,7 @@
       "area": "前进中路居民楼4"
     }
   },
-  {
+  "p2740": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -194,7 +194,7 @@
       "area": "鸿福制衣右侧"
     }
   },
-  {
+  "p2748": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -209,7 +209,7 @@
       "area": "建国医院前"
     }
   },
-  {
+  "p2750": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -224,7 +224,7 @@
       "area": "得胜街居民楼院内"
     }
   },
-  {
+  "p2754": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -239,7 +239,7 @@
       "area": "新区转盘市场二层"
     }
   },
-  {
+  "p2756": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -254,7 +254,7 @@
       "area": "东方时尚驾校斜对面十字路口"
     }
   },
-  {
+  "p2757": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -269,7 +269,7 @@
       "area": "川泸运业有限公司"
     }
   },
-  {
+  "p2758": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -284,7 +284,7 @@
       "area": "珠子街居民楼楼右侧"
     }
   },
-  {
+  "p2776": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -299,7 +299,7 @@
       "area": "园区管委会广告牌下面"
     }
   },
-  {
+  "p2784": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -314,7 +314,7 @@
       "area": "市政府大梯步"
     }
   },
-  {
+  "p2785": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -329,7 +329,7 @@
       "area": "大众诊所"
     }
   },
-  {
+  "p2786": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -344,7 +344,7 @@
       "area": "华冠彩印对面   "
     }
   },
-  {
+  "p2787": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -359,7 +359,7 @@
       "area": "东门口社区居民楼"
     }
   },
-  {
+  "p2788": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -374,7 +374,7 @@
       "area": "蓝泰驾校外"
     }
   },
-  {
+  "p2791": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -389,7 +389,7 @@
       "area": "鱼市街居民楼"
     }
   },
-  {
+  "p2794": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -404,7 +404,7 @@
       "area": "中和街18号"
     }
   },
-  {
+  "p2797": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -419,7 +419,7 @@
       "area": "江阳西路46号"
     }
   },
-  {
+  "p2799": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -434,7 +434,7 @@
       "area": "篦子街居民楼院内"
     }
   },
-  {
+  "p3354": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -449,7 +449,7 @@
       "area": "白马学校新公厕运动场"
     }
   },
-  {
+  "p3357": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -464,7 +464,7 @@
       "area": "建司大院1号2单元前"
     }
   },
-  {
+  "p3358": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -479,7 +479,7 @@
       "area": "分水岭中心小学公厕前"
     }
   },
-  {
+  "p3359": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -494,7 +494,7 @@
       "area": "通滩中心小学明德楼前"
     }
   },
-  {
+  "p3369": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -509,7 +509,7 @@
       "area": "邻玉小学教师宿舍后"
     }
   },
-  {
+  "p3372": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -524,7 +524,7 @@
       "area": "滨江路49号靠墙"
     }
   },
-  {
+  "p3374": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -539,7 +539,7 @@
       "area": "分水岭中学办公楼左"
     }
   },
-  {
+  "p3375": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -554,7 +554,7 @@
       "area": "职业技术学校男生宿舍"
     }
   },
-  {
+  "p3377": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -569,7 +569,7 @@
       "area": "新三村巷71号"
     }
   },
-  {
+  "p3378": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -584,7 +584,7 @@
       "area": "113地质队宿舍楼"
     }
   },
-  {
+  "p3389": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -599,7 +599,7 @@
       "area": "凤凰村靠墙"
     }
   },
-  {
+  "p3392": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -614,7 +614,7 @@
       "area": "中平远路楼前绿化带"
     }
   },
-  {
+  "p3409": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -629,7 +629,7 @@
       "area": "新三村巷103号"
     }
   },
-  {
+  "p3412": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -644,7 +644,7 @@
       "area": "金钱街36号居民楼1"
     }
   },
-  {
+  "p3414": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -659,7 +659,7 @@
       "area": "广云坡1号楼"
     }
   },
-  {
+  "p3415": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -674,7 +674,7 @@
       "area": "周永福学校幼儿园公厕"
     }
   },
-  {
+  "p3419": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -689,7 +689,7 @@
       "area": "中和街7单元绿化带"
     }
   },
-  {
+  "p3429": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -704,7 +704,7 @@
       "area": "天府苑9号楼后靠花台1"
     }
   },
-  {
+  "p3432": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -719,7 +719,7 @@
       "area": "况场中学门卫室前"
     }
   },
-  {
+  "p3434": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -734,7 +734,7 @@
       "area": "通滩中心小学教师宿舍"
     }
   },
-  {
+  "p3440": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -749,7 +749,7 @@
       "area": "新三村巷101号楼后2"
     }
   },
-  {
+  "p3449": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -764,7 +764,7 @@
       "area": "况场中学教师宿舍一号"
     }
   },
-  {
+  "p3452": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -779,7 +779,7 @@
       "area": "中平远路69号1栋"
     }
   },
-  {
+  "p3455": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -794,7 +794,7 @@
       "area": "丹阳楼后围墙外"
     }
   },
-  {
+  "p3457": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -809,7 +809,7 @@
       "area": "连江路一段居民楼楼后"
     }
   },
-  {
+  "p3460": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -824,7 +824,7 @@
       "area": "新三村巷95号"
     }
   },
-  {
+  "p3469": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -839,7 +839,7 @@
       "area": "中学路十三号二栋前"
     }
   },
-  {
+  "p3471": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -854,7 +854,7 @@
       "area": "江南小学绿化带教学楼"
     }
   },
-  {
+  "p3472": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -869,7 +869,7 @@
       "area": "泸州实验中学科学楼"
     }
   },
-  {
+  "p3477": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -884,7 +884,7 @@
       "area": "滨江路50号楼后铁门内"
     }
   },
-  {
+  "p3480": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -899,7 +899,7 @@
       "area": "吊葫芦市场8号"
     }
   },
-  {
+  "p3489": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -914,7 +914,7 @@
       "area": "天府苑9号楼后靠花台2"
     }
   },
-  {
+  "p3491": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -929,7 +929,7 @@
       "area": "泸州十五中教学楼后面"
     }
   },
-  {
+  "p3492": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -944,7 +944,7 @@
       "area": "凤四小区21号绿化带"
     }
   },
-  {
+  "p3494": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -959,7 +959,7 @@
       "area": "弥陀学校小学办公楼右"
     }
   },
-  {
+  "p3497": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -974,7 +974,7 @@
       "area": "矿区子弟一校"
     }
   },
-  {
+  "p3500": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -989,7 +989,7 @@
       "area": "建司大院保安室花台中"
     }
   },
-  {
+  "p3509": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1004,7 +1004,7 @@
       "area": "白马学校5号楼前"
     }
   },
-  {
+  "p3511": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1019,7 +1019,7 @@
       "area": "石油中学厨房前"
     }
   },
-  {
+  "p3519": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1034,7 +1034,7 @@
       "area": "实验小学体育办公室侧"
     }
   },
-  {
+  "p3520": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1049,7 +1049,7 @@
       "area": "忠山路一段居民楼2"
     }
   },
-  {
+  "p3529": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1064,7 +1064,7 @@
       "area": "弥陀学校初中公厕前"
     }
   },
-  {
+  "p3535": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1079,7 +1079,7 @@
       "area": "石油中学综合楼"
     }
   },
-  {
+  "p3539": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1094,7 +1094,7 @@
       "area": "金钱街30号居民楼"
     }
   },
-  {
+  "p3540": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1109,7 +1109,7 @@
       "area": "矿区子弟一校行智楼后"
     }
   },
-  {
+  "p3549": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1124,7 +1124,7 @@
       "area": "天府苑5单元前花台中"
     }
   },
-  {
+  "p3550": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1139,7 +1139,7 @@
       "area": "凤五小区2号楼侧面"
     }
   },
-  {
+  "p3554": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1154,7 +1154,7 @@
       "area": "建司大院5号楼侧面"
     }
   },
-  {
+  "p3555": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1169,7 +1169,7 @@
       "area": "中心幼儿园·教学楼左"
     }
   },
-  {
+  "p3558": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1184,7 +1184,7 @@
       "area": "泰安幼儿园大门左侧"
     }
   },
-  {
+  "p3559": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1199,7 +1199,7 @@
       "area": "江正街七十七号二栋"
     }
   },
-  {
+  "p3570": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1214,7 +1214,7 @@
       "area": "新三村巷67号"
     }
   },
-  {
+  "p3576": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1229,7 +1229,7 @@
       "area": "金钱街36号居民楼2"
     }
   },
-  {
+  "p3577": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1244,7 +1244,7 @@
       "area": "前进中路96号居民楼"
     }
   },
-  {
+  "p3579": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1259,7 +1259,7 @@
       "area": "凤五小区6号楼前"
     }
   },
-  {
+  "p3590": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1274,7 +1274,7 @@
       "area": "吊葫芦市场后门"
     }
   },
-  {
+  "p3597": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1289,7 +1289,7 @@
       "area": "弥陀学校小学公厕前"
     }
   },
-  {
+  "p3598": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1304,7 +1304,7 @@
       "area": "江正街七十七号一栋"
     }
   },
-  {
+  "p3599": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1319,7 +1319,7 @@
       "area": "职业技术学校行政楼后"
     }
   },
-  {
+  "p3616": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1334,7 +1334,7 @@
       "area": "江北学校公厕前"
     }
   },
-  {
+  "p3617": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1349,7 +1349,7 @@
       "area": "城恒祥和小区"
     }
   },
-  {
+  "p3618": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1364,7 +1364,7 @@
       "area": "朝阳路"
     }
   },
-  {
+  "p3620": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1379,7 +1379,7 @@
       "area": "新三村巷95号楼后"
     }
   },
-  {
+  "p3633": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1394,7 +1394,7 @@
       "area": "凤五小区3单元前围栏"
     }
   },
-  {
+  "p3636": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1409,7 +1409,7 @@
       "area": "况场幼儿园教学楼后"
     }
   },
-  {
+  "p3639": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1424,7 +1424,7 @@
       "area": "实验小学幼儿园公厕旁"
     }
   },
-  {
+  "p3649": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1439,7 +1439,7 @@
       "area": "邻玉幼儿园"
     }
   },
-  {
+  "p3650": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1454,7 +1454,7 @@
       "area": "通滩中心小学育美楼后"
     }
   },
-  {
+  "p3660": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1469,7 +1469,7 @@
       "area": "泸宜苑楼后靠垃圾站"
     }
   },
-  {
+  "p3669": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1484,7 +1484,7 @@
       "area": "蓝田中学学校大门口"
     }
   },
-  {
+  "p3673": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1499,7 +1499,7 @@
       "area": "第十中学女生宿舍侧面"
     }
   },
-  {
+  "p3680": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1514,7 +1514,7 @@
       "area": "况场中学食堂前运动场"
     }
   },
-  {
+  "p3710": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1529,7 +1529,7 @@
       "area": "凤五小区4号楼前"
     }
   },
-  {
+  "p3720": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1544,7 +1544,7 @@
       "area": "梓桐路学校后门"
     }
   },
-  {
+  "p3884": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1559,7 +1559,7 @@
       "area": "上巷子楼后绿化带"
     }
   },
-  {
+  "p3885": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1574,7 +1574,7 @@
       "area": "上巷子5号楼后靠围墙"
     }
   },
-  {
+  "p3889": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1589,7 +1589,7 @@
       "area": "泸宜苑楼后靠围墙"
     }
   },
-  {
+  "p3925": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1604,7 +1604,7 @@
       "area": "中和街7单元前绿化带"
     }
   },
-  {
+  "p3953": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1619,7 +1619,7 @@
       "area": "四合院小区"
     }
   },
-  {
+  "p3960": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1634,7 +1634,7 @@
       "area": "丹林小学教师宿舍院内"
     }
   },
-  {
+  "p3971": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1649,7 +1649,7 @@
       "area": "康宁路56号5栋"
     }
   },
-  {
+  "p3972": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1664,7 +1664,7 @@
       "area": "泸南中学学生宿舍后"
     }
   },
-  {
+  "p3973": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1679,7 +1679,7 @@
       "area": "廖家花园2号3号之间"
     }
   },
-  {
+  "p3981": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1694,7 +1694,7 @@
       "area": "凤凰路10号楼"
     }
   },
-  {
+  "p3982": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1709,7 +1709,7 @@
       "area": "玉桂苑停车场旁公共厕所"
     }
   },
-  {
+  "p3983": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1724,7 +1724,7 @@
       "area": "第十中学大门后面"
     }
   },
-  {
+  "p3984": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1739,7 +1739,7 @@
       "area": "泸州实验中学男生宿舍"
     }
   },
-  {
+  "p3985": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1754,7 +1754,7 @@
       "area": "职业技术学校教学楼前"
     }
   },
-  {
+  "p3986": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1769,7 +1769,7 @@
       "area": "泸州外国语学校103号"
     }
   },
-  {
+  "p3987": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1784,7 +1784,7 @@
       "area": "廖家花园11号楼侧面"
     }
   },
-  {
+  "p3988": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1799,7 +1799,7 @@
       "area": "特殊教育学校琢玉楼"
     }
   },
-  {
+  "p3989": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1814,7 +1814,7 @@
       "area": "大云路"
     }
   },
-  {
+  "p3990": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1829,7 +1829,7 @@
       "area": "泸南中学公厕前绿化带"
     }
   },
-  {
+  "p3991": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1844,7 +1844,7 @@
       "area": "大龙花园B区二十九栋"
     }
   },
-  {
+  "p3992": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1859,7 +1859,7 @@
       "area": "新二村5号"
     }
   },
-  {
+  "p4000": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1874,7 +1874,7 @@
       "area": "忠山路一段居民楼3"
     }
   },
-  {
+  "p4001": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1889,7 +1889,7 @@
       "area": "广云坡3号楼"
     }
   },
-  {
+  "p4002": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1904,7 +1904,7 @@
       "area": "中学路十三号一栋侧面"
     }
   },
-  {
+  "p4003": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1919,7 +1919,7 @@
       "area": "库房街1号楼3单元前"
     }
   },
-  {
+  "p4004": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1934,7 +1934,7 @@
       "area": "沙茜北路39号公厕外"
     }
   },
-  {
+  "p4005": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1949,7 +1949,7 @@
       "area": "泸州市第十中学教学楼"
     }
   },
-  {
+  "p4006": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1964,7 +1964,7 @@
       "area": "四川荣悦教育科技有限公司旁公共厕所"
     }
   },
-  {
+  "p4007": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1979,7 +1979,7 @@
       "area": "弥陀学校幼儿园"
     }
   },
-  {
+  "p4009": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -1994,7 +1994,7 @@
       "area": "珠兰路广告牌公共厕所旁"
     }
   },
-  {
+  "p4010": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2009,7 +2009,7 @@
       "area": "况场中学公厕前"
     }
   },
-  {
+  "p4011": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2024,7 +2024,7 @@
       "area": "黄舣中心幼儿园游乐场"
     }
   },
-  {
+  "p4012": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2039,7 +2039,7 @@
       "area": "广云坡57号楼"
     }
   },
-  {
+  "p4013": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2054,7 +2054,7 @@
       "area": "廖家花园1号楼前"
     }
   },
-  {
+  "p4014": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2069,7 +2069,7 @@
       "area": "中巷子小区1-2号楼间"
     }
   },
-  {
+  "p4021": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2084,7 +2084,7 @@
       "area": "周永福学校公厕"
     }
   },
-  {
+  "p4023": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2099,7 +2099,7 @@
       "area": "四合巷39号3栋"
     }
   },
-  {
+  "p4024": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2114,7 +2114,7 @@
       "area": "天府苑1单元前靠墙"
     }
   },
-  {
+  "p4025": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2129,7 +2129,7 @@
       "area": "方山学校学生宿舍后"
     }
   },
-  {
+  "p4026": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2144,7 +2144,7 @@
       "area": "江北教学楼后大门口"
     }
   },
-  {
+  "p4027": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2159,7 +2159,7 @@
       "area": "凤凰路12号楼"
     }
   },
-  {
+  "p4028": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2174,7 +2174,7 @@
       "area": "分水岭幼儿园大门左侧"
     }
   },
-  {
+  "p4030": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2189,7 +2189,7 @@
       "area": "方山学校老公厕前"
     }
   },
-  {
+  "p4031": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2204,7 +2204,7 @@
       "area": "吊葫芦市场大门"
     }
   },
-  {
+  "p4032": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2219,7 +2219,7 @@
       "area": "江阳南路288号楼后"
     }
   },
-  {
+  "p4033": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2234,7 +2234,7 @@
       "area": "分水岭中学学校宿舍后"
     }
   },
-  {
+  "p4038": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2249,7 +2249,7 @@
       "area": "丹林中学公厕前"
     }
   },
-  {
+  "p4041": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2264,7 +2264,7 @@
       "area": "广营路小学厨房进口"
     }
   },
-  {
+  "p4043": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2279,7 +2279,7 @@
       "area": "113地质队宿舍一栋"
     }
   },
-  {
+  "p4044": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2294,7 +2294,7 @@
       "area": "江北教师周转楼围墙外"
     }
   },
-  {
+  "p4046": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2309,7 +2309,7 @@
       "area": "矿区子弟一校女厕所旁"
     }
   },
-  {
+  "p4047": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2324,7 +2324,7 @@
       "area": "梓桐路学校食堂背后"
     }
   },
-  {
+  "p4049": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2339,7 +2339,7 @@
       "area": "泸南中学教师宿舍后"
     }
   },
-  {
+  "p4051": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2354,7 +2354,7 @@
       "area": "石寨学校学校公厕下面"
     }
   },
-  {
+  "p4052": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2369,7 +2369,7 @@
       "area": "新三村巷63号"
     }
   },
-  {
+  "p4053": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2384,7 +2384,7 @@
       "area": "东门口社区一栋二单元"
     }
   },
-  {
+  "p4058": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2399,7 +2399,7 @@
       "area": "凤五小区3单元侧墙"
     }
   },
-  {
+  "p4062": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2414,7 +2414,7 @@
       "area": "十五中进大门口右侧"
     }
   },
-  {
+  "p4064": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2429,7 +2429,7 @@
       "area": "东门口社区一单元"
     }
   },
-  {
+  "p4065": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2444,7 +2444,7 @@
       "area": "江南小学食堂侧面"
     }
   },
-  {
+  "p4067": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2459,7 +2459,7 @@
       "area": "东门口社区三单元"
     }
   },
-  {
+  "p4068": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2474,7 +2474,7 @@
       "area": "职业技术学校保安室"
     }
   },
-  {
+  "p4069": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2489,7 +2489,7 @@
       "area": "职业技术学校公厕侧面"
     }
   },
-  {
+  "p4070": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2504,7 +2504,7 @@
       "area": "周永福学校学生宿舍"
     }
   },
-  {
+  "p4071": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2519,7 +2519,7 @@
       "area": "中平远路靠墙工行对面"
     }
   },
-  {
+  "p4073": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2534,7 +2534,7 @@
       "area": "大龙花园B区二十五栋"
     }
   },
-  {
+  "p4078": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2549,7 +2549,7 @@
       "area": "第十中学乐学楼前"
     }
   },
-  {
+  "p4081": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2564,7 +2564,7 @@
       "area": "大龙花园B区二十栋"
     }
   },
-  {
+  "p4082": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2579,7 +2579,7 @@
       "area": "宜定学校教师宿舍前"
     }
   },
-  {
+  "p4083": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2594,7 +2594,7 @@
       "area": "人民南路幼儿园"
     }
   },
-  {
+  "p4084": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2609,7 +2609,7 @@
       "area": "新二村11号楼"
     }
   },
-  {
+  "p4085": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2624,7 +2624,7 @@
       "area": "泸州实验中学励志苑后"
     }
   },
-  {
+  "p4086": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2639,7 +2639,7 @@
       "area": "铜店街幼儿园大门右侧"
     }
   },
-  {
+  "p4088": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2654,7 +2654,7 @@
       "area": "川泸运业有限公司3"
     }
   },
-  {
+  "p4089": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2669,7 +2669,7 @@
       "area": "泸州外国语学校2号楼"
     }
   },
-  {
+  "p4091": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2684,7 +2684,7 @@
       "area": "大山坪16号"
     }
   },
-  {
+  "p4098": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2699,7 +2699,7 @@
       "area": "凤五小区楼前花台中"
     }
   },
-  {
+  "p4100": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2714,7 +2714,7 @@
       "area": "实验小学体育器材室前"
     }
   },
-  {
+  "p4101": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2729,7 +2729,7 @@
       "area": "四合巷39号1栋"
     }
   },
-  {
+  "p4102": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2744,7 +2744,7 @@
       "area": "东门口社区二栋前"
     }
   },
-  {
+  "p4104": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2759,7 +2759,7 @@
       "area": "天府苑2单元前围墙外"
     }
   },
-  {
+  "p4106": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2774,7 +2774,7 @@
       "area": "新三村巷69号"
     }
   },
-  {
+  "p4107": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2789,7 +2789,7 @@
       "area": "大山坪路北段76号"
     }
   },
-  {
+  "p4109": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2804,7 +2804,7 @@
       "area": "吊葫芦市场6号"
     }
   },
-  {
+  "p4110": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2819,7 +2819,7 @@
       "area": "江阳职高3"
     }
   },
-  {
+  "p4118": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2834,7 +2834,7 @@
       "area": "分水岭中学教师宿舍后"
     }
   },
-  {
+  "p4120": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2849,7 +2849,7 @@
       "area": "建司大院2号2单元前"
     }
   },
-  {
+  "p4122": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2864,7 +2864,7 @@
       "area": "泸南中学1校外门面前"
     }
   },
-  {
+  "p4123": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2879,7 +2879,7 @@
       "area": "东门口社区一栋三单元"
     }
   },
-  {
+  "p4124": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2894,7 +2894,7 @@
       "area": "江北学校学生宿舍后"
     }
   },
-  {
+  "p4125": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2909,7 +2909,7 @@
       "area": "广营路小学综合楼后面"
     }
   },
-  {
+  "p4126": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2924,7 +2924,7 @@
       "area": "泸南中学左面教师宿舍"
     }
   },
-  {
+  "p4127": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2939,7 +2939,7 @@
       "area": "人民南路幼儿园游乐场"
     }
   },
-  {
+  "p4128": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2954,7 +2954,7 @@
       "area": "新三村巷99号"
     }
   },
-  {
+  "p4129": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2969,7 +2969,7 @@
       "area": "实验中学7教学楼公厕"
     }
   },
-  {
+  "p4130": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2984,7 +2984,7 @@
       "area": "中平远路28号后围墙"
     }
   },
-  {
+  "p4131": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -2999,7 +2999,7 @@
       "area": "江阳职高4"
     }
   },
-  {
+  "p4132": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3014,7 +3014,7 @@
       "area": "丹林中学教师宿舍二栋"
     }
   },
-  {
+  "p4133": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3029,7 +3029,7 @@
       "area": "前进中路158号居民楼"
     }
   },
-  {
+  "p4138": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3044,7 +3044,7 @@
       "area": "方山学校教学楼前"
     }
   },
-  {
+  "p4140": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3059,7 +3059,7 @@
       "area": "邻玉小学教学楼后"
     }
   },
-  {
+  "p4148": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3074,7 +3074,7 @@
       "area": "新二村7号"
     }
   },
-  {
+  "p4150": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3089,7 +3089,7 @@
       "area": "泰安幼儿园游乐场"
     }
   },
-  {
+  "p4152": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3104,7 +3104,7 @@
       "area": "梓桐路学校附属幼儿园"
     }
   },
-  {
+  "p4153": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3119,7 +3119,7 @@
       "area": "建司大院6号楼前"
     }
   },
-  {
+  "p4158": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3134,7 +3134,7 @@
       "area": "泸宜苑丽人医院楼后"
     }
   },
-  {
+  "p4160": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3149,7 +3149,7 @@
       "area": "新三村巷65号"
     }
   },
-  {
+  "p4161": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3164,7 +3164,7 @@
       "area": "石油中学男生宿舍"
     }
   },
-  {
+  "p4162": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3179,7 +3179,7 @@
       "area": "石油中学进大门右面"
     }
   },
-  {
+  "p4163": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3194,7 +3194,7 @@
       "area": "新三村巷97号"
     }
   },
-  {
+  "p4164": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3209,7 +3209,7 @@
       "area": "特殊教育学校进大门左"
     }
   },
-  {
+  "p4165": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3224,7 +3224,7 @@
       "area": "老市人大6号楼右侧"
     }
   },
-  {
+  "p4166": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3239,7 +3239,7 @@
       "area": "凤凰村1号侧面靠墙"
     }
   },
-  {
+  "p4167": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3254,7 +3254,7 @@
       "area": "江阳中路24号楼侧面"
     }
   },
-  {
+  "p4168": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3269,7 +3269,7 @@
       "area": "东门口社区三栋前"
     }
   },
-  {
+  "p4169": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3284,7 +3284,7 @@
       "area": "老市人大1号楼前"
     }
   },
-  {
+  "p4170": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3299,7 +3299,7 @@
       "area": "新区转盘市场2"
     }
   },
-  {
+  "p4171": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3314,7 +3314,7 @@
       "area": "泸州实验中学明远楼"
     }
   },
-  {
+  "p4172": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3329,7 +3329,7 @@
       "area": "职业技术学校女生宿舍"
     }
   },
-  {
+  "p4173": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3344,7 +3344,7 @@
       "area": "弥陀学校初中办公楼右"
     }
   },
-  {
+  "p4177": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3359,7 +3359,7 @@
       "area": "白马学校图书室前"
     }
   },
-  {
+  "p4178": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3374,7 +3374,7 @@
       "area": "凤五小区靠墙"
     }
   },
-  {
+  "p4180": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3389,7 +3389,7 @@
       "area": "前进中路68号居民楼"
     }
   },
-  {
+  "p4191": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3404,7 +3404,7 @@
       "area": "泸州实验中学6逸夫楼"
     }
   },
-  {
+  "p4192": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3419,7 +3419,7 @@
       "area": "江北学校篮球场旁"
     }
   },
-  {
+  "p4193": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3434,7 +3434,7 @@
       "area": "泸州实验中学逸夫楼后"
     }
   },
-  {
+  "p4200": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3449,7 +3449,7 @@
       "area": "凤凰村健身器材花台"
     }
   },
-  {
+  "p4212": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3464,7 +3464,7 @@
       "area": "泸州实验中学励志苑"
     }
   },
-  {
+  "p4213": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3479,7 +3479,7 @@
       "area": "通滩中心幼儿园教学楼"
     }
   },
-  {
+  "p4218": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3494,7 +3494,7 @@
       "area": "蓝田中学公厕前绿化带"
     }
   },
-  {
+  "p4220": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3509,7 +3509,7 @@
       "area": "泰安镇泰安幼儿园"
     }
   },
-  {
+  "p4232": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3524,7 +3524,7 @@
       "area": "泸州实验中学教师宿舍"
     }
   },
-  {
+  "p4233": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3539,7 +3539,7 @@
       "area": "石油中学住宿楼"
     }
   },
-  {
+  "p4240": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3554,7 +3554,7 @@
       "area": "新三村巷101号楼后1"
     }
   },
-  {
+  "p4254": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3569,7 +3569,7 @@
       "area": "新二村8号"
     }
   },
-  {
+  "p4258": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3584,7 +3584,7 @@
       "area": "蓝田中学知味苑前"
     }
   },
-  {
+  "p4279": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3599,7 +3599,7 @@
       "area": "第十中学公厕左侧围墙"
     }
   },
-  {
+  "p4400": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3614,7 +3614,7 @@
       "area": "第十中学男生宿舍后"
     }
   },
-  {
+  "p4401": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3629,7 +3629,7 @@
       "area": "前进下路76号"
     }
   },
-  {
+  "p4403": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3644,7 +3644,7 @@
       "area": "新马路38号楼侧面"
     }
   },
-  {
+  "p4404": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3659,7 +3659,7 @@
       "area": "城恒平安小区一栋后"
     }
   },
-  {
+  "p4405": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3674,7 +3674,7 @@
       "area": "鱼市街居民楼楼右侧"
     }
   },
-  {
+  "p4406": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3689,7 +3689,7 @@
       "area": "白子路11号4号楼"
     }
   },
-  {
+  "p4407": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3704,7 +3704,7 @@
       "area": "新三村居民楼2"
     }
   },
-  {
+  "p4408": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3719,7 +3719,7 @@
       "area": "大龙花园A区十六栋前"
     }
   },
-  {
+  "p4409": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3734,7 +3734,7 @@
       "area": "人大机关宿舍8号"
     }
   },
-  {
+  "p4410": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3749,7 +3749,7 @@
       "area": "会津城恒居民楼"
     }
   },
-  {
+  "p4412": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3764,7 +3764,7 @@
       "area": "泸粮小区5号楼前"
     }
   },
-  {
+  "p4413": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3779,7 +3779,7 @@
       "area": "新三村居民楼"
     }
   },
-  {
+  "p4414": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3794,7 +3794,7 @@
       "area": "佳裕路37号"
     }
   },
-  {
+  "p4415": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3809,7 +3809,7 @@
       "area": "六一特色幼儿园"
     }
   },
-  {
+  "p4416": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3824,7 +3824,7 @@
       "area": "佳裕路1号"
     }
   },
-  {
+  "p4417": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3839,7 +3839,7 @@
       "area": "仁和路居民楼楼左侧"
     }
   },
-  {
+  "p4418": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3854,7 +3854,7 @@
       "area": "金银街1号6号楼后"
     }
   },
-  {
+  "p4419": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3869,7 +3869,7 @@
       "area": "大龙花园B区二十六栋"
     }
   },
-  {
+  "p4420": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3884,7 +3884,7 @@
       "area": "四合院小区2"
     }
   },
-  {
+  "p4421": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3899,7 +3899,7 @@
       "area": "武成路20号"
     }
   },
-  {
+  "p4422": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3914,7 +3914,7 @@
       "area": "白云苑"
     }
   },
-  {
+  "p4423": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3929,7 +3929,7 @@
       "area": "毛家院居民楼楼前"
     }
   },
-  {
+  "p4425": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3944,7 +3944,7 @@
       "area": "人大机关宿舍9号"
     }
   },
-  {
+  "p4427": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3959,7 +3959,7 @@
       "area": "金银街1号2号楼前"
     }
   },
-  {
+  "p4428": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3974,7 +3974,7 @@
       "area": "安宁巷居民楼8栋楼左"
     }
   },
-  {
+  "p4429": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -3989,7 +3989,7 @@
       "area": "新马路118号1栋院坝"
     }
   },
-  {
+  "p4431": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4004,7 +4004,7 @@
       "area": "电影院公厕"
     }
   },
-  {
+  "p4432": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4019,7 +4019,7 @@
       "area": "兰家祠院内"
     }
   },
-  {
+  "p4433": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4034,7 +4034,7 @@
       "area": "新马路77号2单元前"
     }
   },
-  {
+  "p4437": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4049,7 +4049,7 @@
       "area": "大龙花园B区一单元"
     }
   },
-  {
+  "p4438": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4064,7 +4064,7 @@
       "area": "前进中路居民楼7"
     }
   },
-  {
+  "p4439": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4079,7 +4079,7 @@
       "area": "淘弥洞巷12号"
     }
   },
-  {
+  "p4440": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4094,7 +4094,7 @@
       "area": "宪桥公厕"
     }
   },
-  {
+  "p4441": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4109,7 +4109,7 @@
       "area": "大龙花园A区十八栋后"
     }
   },
-  {
+  "p4442": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4124,7 +4124,7 @@
       "area": "大龙花园A区十六栋后"
     }
   },
-  {
+  "p4443": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4139,7 +4139,7 @@
       "area": "仁和路居民楼4号楼后"
     }
   },
-  {
+  "p4444": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4154,7 +4154,7 @@
       "area": "金银街1号4号楼后"
     }
   },
-  {
+  "p4445": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4169,7 +4169,7 @@
       "area": "白子路11号"
     }
   },
-  {
+  "p4446": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4184,7 +4184,7 @@
       "area": "佳裕花园3号院"
     }
   },
-  {
+  "p4447": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4199,7 +4199,7 @@
       "area": "白子路11号7号楼"
     }
   },
-  {
+  "p4448": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4214,7 +4214,7 @@
       "area": "孝义路居民楼"
     }
   },
-  {
+  "p4449": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4229,7 +4229,7 @@
       "area": "白子路11号5号楼"
     }
   },
-  {
+  "p4451": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4244,7 +4244,7 @@
       "area": "佳裕路3号"
     }
   },
-  {
+  "p4452": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4259,7 +4259,7 @@
       "area": "城恒平安小区门卫后"
     }
   },
-  {
+  "p4453": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4274,7 +4274,7 @@
       "area": "上场公厕"
     }
   },
-  {
+  "p4454": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4289,7 +4289,7 @@
       "area": "堰塘湾路13号前"
     }
   },
-  {
+  "p4455": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4304,7 +4304,7 @@
       "area": "康平路22号5栋"
     }
   },
-  {
+  "p4456": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4319,7 +4319,7 @@
       "area": "堰塘湾路39号楼左侧"
     }
   },
-  {
+  "p4457": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4334,7 +4334,7 @@
       "area": "前进下路79号3单元前"
     }
   },
-  {
+  "p4458": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4349,7 +4349,7 @@
       "area": "大慈路居民楼89号后"
     }
   },
-  {
+  "p4459": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4364,7 +4364,7 @@
       "area": "泸粮小区1栋"
     }
   },
-  {
+  "p4460": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4379,7 +4379,7 @@
       "area": "龙透关路76号4栋楼后"
     }
   },
-  {
+  "p4461": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4394,7 +4394,7 @@
       "area": "连江路一段居民楼246"
     }
   },
-  {
+  "p4462": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4409,7 +4409,7 @@
       "area": "大山坪路北段76号"
     }
   },
-  {
+  "p4463": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4424,7 +4424,7 @@
       "area": "堰塘湾路15号楼前"
     }
   },
-  {
+  "p4466": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4439,7 +4439,7 @@
       "area": "大山坪路北段102号3栋"
     }
   },
-  {
+  "p4467": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4454,7 +4454,7 @@
       "area": "宽厚街居民楼院内"
     }
   },
-  {
+  "p4468": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4469,7 +4469,7 @@
       "area": "太平巷2号1栋健身器材"
     }
   },
-  {
+  "p4469": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4484,7 +4484,7 @@
       "area": "白子路11号1号楼"
     }
   },
-  {
+  "p4470": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4499,7 +4499,7 @@
       "area": "白子路11号3号楼"
     }
   },
-  {
+  "p4471": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4514,7 +4514,7 @@
       "area": "新马路224号楼前"
     }
   },
-  {
+  "p4473": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4529,7 +4529,7 @@
       "area": "龙透关路76号8栋前"
     }
   },
-  {
+  "p4474": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4544,7 +4544,7 @@
       "area": "新马路186号1栋公厕"
     }
   },
-  {
+  "p4475": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4559,7 +4559,7 @@
       "area": "老市人大"
     }
   },
-  {
+  "p4476": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4574,7 +4574,7 @@
       "area": "前进下路居民楼2"
     }
   },
-  {
+  "p4477": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4589,7 +4589,7 @@
       "area": "江阳中路31号绿化带"
     }
   },
-  {
+  "p4478": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4604,7 +4604,7 @@
       "area": "孝顺路一单元后"
     }
   },
-  {
+  "p4480": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4619,7 +4619,7 @@
       "area": "大北街居民楼"
     }
   },
-  {
+  "p4481": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4634,7 +4634,7 @@
       "area": "大龙花园A区十八栋前"
     }
   },
-  {
+  "p4482": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4649,7 +4649,7 @@
       "area": "和巷子居民楼"
     }
   },
-  {
+  "p4483": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4664,7 +4664,7 @@
       "area": "青果湾巷62号1栋"
     }
   },
-  {
+  "p4484": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4679,7 +4679,7 @@
       "area": "朝阳路居民楼院内"
     }
   },
-  {
+  "p4485": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4694,7 +4694,7 @@
       "area": "廖家花园楼前靠墙"
     }
   },
-  {
+  "p4487": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4709,7 +4709,7 @@
       "area": "佳裕路103号"
     }
   },
-  {
+  "p4488": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4724,7 +4724,7 @@
       "area": "加油站公厕"
     }
   },
-  {
+  "p4489": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4739,7 +4739,7 @@
       "area": "113地质队宿舍"
     }
   },
-  {
+  "p4490": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4754,7 +4754,7 @@
       "area": "中和街16号"
     }
   },
-  {
+  "p4491": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4769,7 +4769,7 @@
       "area": "陕西馆小区大门口右侧"
     }
   },
-  {
+  "p4492": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4784,7 +4784,7 @@
       "area": "镇委公厕"
     }
   },
-  {
+  "p4493": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4799,7 +4799,7 @@
       "area": "桃源江畔"
     }
   },
-  {
+  "p4495": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4814,7 +4814,7 @@
       "area": "陕西馆小区院内"
     }
   },
-  {
+  "p4496": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4829,7 +4829,7 @@
       "area": "四合村居民楼"
     }
   },
-  {
+  "p4497": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4844,7 +4844,7 @@
       "area": "丹林小学公厕前"
     }
   },
-  {
+  "p4498": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4859,7 +4859,7 @@
       "area": "前进下路74号"
     }
   },
-  {
+  "p4499": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4874,7 +4874,7 @@
       "area": "前进中路居民楼6"
     }
   },
-  {
+  "p4500": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4889,7 +4889,7 @@
       "area": "堰塘湾路1号一栋楼后"
     }
   },
-  {
+  "p4501": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4904,7 +4904,7 @@
       "area": "安宁巷居民楼3栋楼后"
     }
   },
-  {
+  "p4502": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4919,7 +4919,7 @@
       "area": "江阳西路学校2"
     }
   },
-  {
+  "p4503": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4934,7 +4934,7 @@
       "area": "前进下路居民楼"
     }
   },
-  {
+  "p4504": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4949,7 +4949,7 @@
       "area": "中和街20号"
     }
   },
-  {
+  "p4505": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4964,7 +4964,7 @@
       "area": "大山坪26号"
     }
   },
-  {
+  "p4506": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4979,7 +4979,7 @@
       "area": "江阳中路11号绿化带"
     }
   },
-  {
+  "p4507": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -4994,7 +4994,7 @@
       "area": "堰塘湾路12号楼后"
     }
   },
-  {
+  "p4508": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5009,7 +5009,7 @@
       "area": "淘弥洞巷18号"
     }
   },
-  {
+  "p4509": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5024,7 +5024,7 @@
       "area": "泸粮小区2栋"
     }
   },
-  {
+  "p4510": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5039,7 +5039,7 @@
       "area": "佳裕路2号"
     }
   },
-  {
+  "p4511": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5054,7 +5054,7 @@
       "area": "中平远路2号2栋垃圾站"
     }
   },
-  {
+  "p4512": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5069,7 +5069,7 @@
       "area": "安宁巷居民楼2栋楼后"
     }
   },
-  {
+  "p4513": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5084,7 +5084,7 @@
       "area": "阳光路7号院3号后"
     }
   },
-  {
+  "p4514": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5099,7 +5099,7 @@
       "area": "上平远路107号1栋"
     }
   },
-  {
+  "p4515": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5114,7 +5114,7 @@
       "area": "阳光路7号11-12之间"
     }
   },
-  {
+  "p4516": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5129,7 +5129,7 @@
       "area": "泸粮小区6号楼右侧"
     }
   },
-  {
+  "p4517": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5144,7 +5144,7 @@
       "area": "金银街31号2号"
     }
   },
-  {
+  "p4518": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5159,7 +5159,7 @@
       "area": "阳光路7号院10号前"
     }
   },
-  {
+  "p4520": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5174,7 +5174,7 @@
       "area": "阳光路7号院6号楼"
     }
   },
-  {
+  "p4521": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5189,7 +5189,7 @@
       "area": "陕西馆小区一单元前"
     }
   },
-  {
+  "p4522": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5204,7 +5204,7 @@
       "area": "安宁巷居民楼6栋楼后"
     }
   },
-  {
+  "p4524": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5219,7 +5219,7 @@
       "area": "阳光路7号院绿化门口"
     }
   },
-  {
+  "p4525": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5234,7 +5234,7 @@
       "area": "大山坪居民楼"
     }
   },
-  {
+  "p4526": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5249,7 +5249,7 @@
       "area": "治平路居民楼"
     }
   },
-  {
+  "p4527": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5264,7 +5264,7 @@
       "area": "大山坪141号6栋"
     }
   },
-  {
+  "p4528": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5279,7 +5279,7 @@
       "area": "朝阳路居民楼楼后"
     }
   },
-  {
+  "p4529": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5294,7 +5294,7 @@
       "area": "安宁巷居民楼5栋楼前"
     }
   },
-  {
+  "p4530": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5309,7 +5309,7 @@
       "area": "陕西馆小区二单元前"
     }
   },
-  {
+  "p4531": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5324,7 +5324,7 @@
       "area": "堰塘湾路25号楼后"
     }
   },
-  {
+  "p4532": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5339,7 +5339,7 @@
       "area": "庆园路居民楼二单元前"
     }
   },
-  {
+  "p4533": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5354,7 +5354,7 @@
       "area": "康宁路56号7栋"
     }
   },
-  {
+  "p4534": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5369,7 +5369,7 @@
       "area": "大山坪25号"
     }
   },
-  {
+  "p4535": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5384,7 +5384,7 @@
       "area": "会津城恒居民楼2"
     }
   },
-  {
+  "p4536": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5399,7 +5399,7 @@
       "area": "铅店街10号3单元"
     }
   },
-  {
+  "p4537": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5414,7 +5414,7 @@
       "area": "大山坪路北段95号"
     }
   },
-  {
+  "p4538": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5429,7 +5429,7 @@
       "area": "堰塘湾路19号楼右侧"
     }
   },
-  {
+  "p4539": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5444,7 +5444,7 @@
       "area": "101号院"
     }
   },
-  {
+  "p4540": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5459,7 +5459,7 @@
       "area": "大山坪13号"
     }
   },
-  {
+  "p4541": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5474,7 +5474,7 @@
       "area": "新南街2号串串香"
     }
   },
-  {
+  "p4542": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5489,7 +5489,7 @@
       "area": "江岸苑"
     }
   },
-  {
+  "p4544": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5504,7 +5504,7 @@
       "area": "江阳中路33号绿化带"
     }
   },
-  {
+  "p4545": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5519,7 +5519,7 @@
       "area": "大山坪30号"
     }
   },
-  {
+  "p4546": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5534,7 +5534,7 @@
       "area": "前进下路43号一栋后"
     }
   },
-  {
+  "p4547": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5549,7 +5549,7 @@
       "area": "太平巷2号2栋3单元前"
     }
   },
-  {
+  "p4548": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5564,7 +5564,7 @@
       "area": "滨江路4段505号3栋"
     }
   },
-  {
+  "p4550": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5579,7 +5579,7 @@
       "area": "白子路11号8号楼"
     }
   },
-  {
+  "p4551": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5594,7 +5594,7 @@
       "area": "中和街1号坝坝老火锅"
     }
   },
-  {
+  "p4552": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5609,7 +5609,7 @@
       "area": "凤四小区1单元前"
     }
   },
-  {
+  "p4553": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5624,7 +5624,7 @@
       "area": "堰塘湾路7号楼前"
     }
   },
-  {
+  "p4554": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5639,7 +5639,7 @@
       "area": "滨江路4段505号2单元"
     }
   },
-  {
+  "p4555": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5654,7 +5654,7 @@
       "area": "大龙花园A区十三栋前"
     }
   },
-  {
+  "p4556": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5669,7 +5669,7 @@
       "area": "前进下路81号1单元前"
     }
   },
-  {
+  "p4557": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5684,7 +5684,7 @@
       "area": "仁和路居民楼"
     }
   },
-  {
+  "p4558": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5699,7 +5699,7 @@
       "area": "堰塘湾路5号楼前"
     }
   },
-  {
+  "p4559": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5714,7 +5714,7 @@
       "area": "安宁巷居民楼4栋楼后"
     }
   },
-  {
+  "p4560": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5729,7 +5729,7 @@
       "area": "前进下路43号二栋后"
     }
   },
-  {
+  "p4561": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5744,7 +5744,7 @@
       "area": "安宁巷居民楼7与8间"
     }
   },
-  {
+  "p4562": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5759,7 +5759,7 @@
       "area": "正码头公厕"
     }
   },
-  {
+  "p4563": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5774,7 +5774,7 @@
       "area": "大慈路公厕右侧"
     }
   },
-  {
+  "p4564": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5789,7 +5789,7 @@
       "area": "大山坪一段9号"
     }
   },
-  {
+  "p4565": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5804,7 +5804,7 @@
       "area": "前进中路居民楼5"
     }
   },
-  {
+  "p4566": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5819,7 +5819,7 @@
       "area": "新马路2号楼天井内"
     }
   },
-  {
+  "p4567": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5834,7 +5834,7 @@
       "area": "安宁巷居民楼1栋楼前"
     }
   },
-  {
+  "p4568": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5849,7 +5849,7 @@
       "area": "大山坪31号"
     }
   },
-  {
+  "p4569": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5864,7 +5864,7 @@
       "area": "新马路2号2单元前靠墙"
     }
   },
-  {
+  "p4570": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5879,7 +5879,7 @@
       "area": "滨江路505号3栋3单元"
     }
   },
-  {
+  "p4571": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5894,7 +5894,7 @@
       "area": "滨江路4段505号"
     }
   },
-  {
+  "p4572": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5909,7 +5909,7 @@
       "area": "铅店街8号"
     }
   },
-  {
+  "p4573": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5924,7 +5924,7 @@
       "area": "佳裕路58号"
     }
   },
-  {
+  "p4576": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5939,7 +5939,7 @@
       "area": "中和街7号"
     }
   },
-  {
+  "p4577": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5954,7 +5954,7 @@
       "area": "天远厂区专家公寓公厕后"
     }
   },
-  {
+  "p4578": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5969,7 +5969,7 @@
       "area": "滨江路4段507号1单元"
     }
   },
-  {
+  "p4579": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5984,7 +5984,7 @@
       "area": "太平巷2号2栋5单元前"
     }
   },
-  {
+  "p4580": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -5999,7 +5999,7 @@
       "area": "下平远路81号地下室内"
     }
   },
-  {
+  "p4581": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6014,7 +6014,7 @@
       "area": "曾家花园三单元"
     }
   },
-  {
+  "p4582": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6029,7 +6029,7 @@
       "area": "江都大厦"
     }
   },
-  {
+  "p4583": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6044,7 +6044,7 @@
       "area": "康宁路56号1栋"
     }
   },
-  {
+  "p4585": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6059,7 +6059,7 @@
       "area": "白子路11号2号楼"
     }
   },
-  {
+  "p4586": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6074,7 +6074,7 @@
       "area": "铜店街34、32号"
     }
   },
-  {
+  "p4587": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6089,7 +6089,7 @@
       "area": "铅店街2号楼"
     }
   },
-  {
+  "p4588": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6104,7 +6104,7 @@
       "area": "铅店街65号1栋与2栋"
     }
   },
-  {
+  "p4589": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6119,7 +6119,7 @@
       "area": "刺园路1号"
     }
   },
-  {
+  "p4590": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6134,7 +6134,7 @@
       "area": "堰塘湾路1号二栋楼后"
     }
   },
-  {
+  "p4591": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6149,7 +6149,7 @@
       "area": "孝顺路二单元后"
     }
   },
-  {
+  "p4592": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6164,7 +6164,7 @@
       "area": "铅店街3号楼后1单元前"
     }
   },
-  {
+  "p4593": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6179,7 +6179,7 @@
       "area": "前进下路79号2单元前"
     }
   },
-  {
+  "p4594": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6194,7 +6194,7 @@
       "area": "刺园路45号6栋"
     }
   },
-  {
+  "p4595": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6209,7 +6209,7 @@
       "area": "下平远路1号楼停车处"
     }
   },
-  {
+  "p4596": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6224,7 +6224,7 @@
       "area": "铅店街3号楼后1单元"
     }
   },
-  {
+  "p4597": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6239,7 +6239,7 @@
       "area": "刺园路45号3栋"
     }
   },
-  {
+  "p4598": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6254,7 +6254,7 @@
       "area": "大山坪33号"
     }
   },
-  {
+  "p4599": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6269,7 +6269,7 @@
       "area": "中平远路47号4栋"
     }
   },
-  {
+  "p4600": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6284,7 +6284,7 @@
       "area": "新南街30号1栋"
     }
   },
-  {
+  "p4601": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6299,7 +6299,7 @@
       "area": "中平远路49号2号楼"
     }
   },
-  {
+  "p4602": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6314,7 +6314,7 @@
       "area": "前进下路81号4单元前"
     }
   },
-  {
+  "p4603": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6329,7 +6329,7 @@
       "area": "新马路75号3栋"
     }
   },
-  {
+  "p4604": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6344,7 +6344,7 @@
       "area": "下平远路15号2栋"
     }
   },
-  {
+  "p4605": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6359,7 +6359,7 @@
       "area": "曾家花园一单元侧面"
     }
   },
-  {
+  "p4606": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6374,7 +6374,7 @@
       "area": "铅店街5号楼"
     }
   },
-  {
+  "p4607": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6389,7 +6389,7 @@
       "area": "中平远路118号围墙"
     }
   },
-  {
+  "p4608": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6404,7 +6404,7 @@
       "area": "铅店街9号"
     }
   },
-  {
+  "p4609": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6419,7 +6419,7 @@
       "area": "下平远路30号1栋"
     }
   },
-  {
+  "p4610": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6434,7 +6434,7 @@
       "area": "铅店街3号楼后靠围墙"
     }
   },
-  {
+  "p4611": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6449,7 +6449,7 @@
       "area": "堰塘湾路33号楼前"
     }
   },
-  {
+  "p4613": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6464,7 +6464,7 @@
       "area": "康定路24号"
     }
   },
-  {
+  "p4614": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6479,7 +6479,7 @@
       "area": "阳光路16号4栋"
     }
   },
-  {
+  "p4615": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6494,7 +6494,7 @@
       "area": "大山坪居民楼3"
     }
   },
-  {
+  "p4616": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6509,7 +6509,7 @@
       "area": "石马沟94号1栋3单元"
     }
   },
-  {
+  "p4617": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6524,7 +6524,7 @@
       "area": "青山巷1号3栋"
     }
   },
-  {
+  "p4618": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6539,7 +6539,7 @@
       "area": "康定路42号2栋侧面"
     }
   },
-  {
+  "p4619": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6554,7 +6554,7 @@
       "area": "连江路1栋1单元"
     }
   },
-  {
+  "p4620": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6569,7 +6569,7 @@
       "area": "锦竹巷13号9（1）"
     }
   },
-  {
+  "p4621": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6584,7 +6584,7 @@
       "area": "桃园路2号院1与2间"
     }
   },
-  {
+  "p4622": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6599,7 +6599,7 @@
       "area": "连江路二段84号"
     }
   },
-  {
+  "p4623": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6614,7 +6614,7 @@
       "area": "锦竹巷13号9（2）"
     }
   },
-  {
+  "p4624": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6629,7 +6629,7 @@
       "area": "建司大院4栋"
     }
   },
-  {
+  "p4625": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6644,7 +6644,7 @@
       "area": "肖巷子3"
     }
   },
-  {
+  "p4626": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6659,7 +6659,7 @@
       "area": "刺园路一段74号"
     }
   },
-  {
+  "p4627": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6674,7 +6674,7 @@
       "area": "石马沟58号5栋"
     }
   },
-  {
+  "p4628": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6689,7 +6689,7 @@
       "area": "江阳村14号侧面绿化带"
     }
   },
-  {
+  "p4629": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6704,7 +6704,7 @@
       "area": "淘弥洞居民楼"
     }
   },
-  {
+  "p4630": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6719,7 +6719,7 @@
       "area": "麻柳湾居民楼"
     }
   },
-  {
+  "p4631": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6734,7 +6734,7 @@
       "area": "鹿子背公厕"
     }
   },
-  {
+  "p4632": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6749,7 +6749,7 @@
       "area": "川泸运业有限公司2"
     }
   },
-  {
+  "p4633": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6764,7 +6764,7 @@
       "area": "阳光路7号院9号楼侧"
     }
   },
-  {
+  "p4634": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6779,7 +6779,7 @@
       "area": "川泸运业有限公司6"
     }
   },
-  {
+  "p4635": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6794,7 +6794,7 @@
       "area": "裕华苑1"
     }
   },
-  {
+  "p4636": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6809,7 +6809,7 @@
       "area": "石马沟47号1栋4单元"
     }
   },
-  {
+  "p4637": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6824,7 +6824,7 @@
       "area": "西苑路5号2号楼侧面"
     }
   },
-  {
+  "p4638": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6839,7 +6839,7 @@
       "area": "麻柳湾居民楼5"
     }
   },
-  {
+  "p4639": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6854,7 +6854,7 @@
       "area": "龙跃小区1"
     }
   },
-  {
+  "p4640": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6869,7 +6869,7 @@
       "area": "阳光路16号5栋"
     }
   },
-  {
+  "p4641": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6884,7 +6884,7 @@
       "area": "桃园路2号院2栋侧面"
     }
   },
-  {
+  "p4642": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6899,7 +6899,7 @@
       "area": "石马沟62号1栋2单元"
     }
   },
-  {
+  "p4643": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6914,7 +6914,7 @@
       "area": "石马沟居民楼"
     }
   },
-  {
+  "p4644": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6929,7 +6929,7 @@
       "area": "金鸭儿小区"
     }
   },
-  {
+  "p4645": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6944,7 +6944,7 @@
       "area": "区地税局宿舍"
     }
   },
-  {
+  "p4646": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6959,7 +6959,7 @@
       "area": "石马沟49号1栋"
     }
   },
-  {
+  "p4647": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6974,7 +6974,7 @@
       "area": "麻柳湾居民楼2"
     }
   },
-  {
+  "p4648": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -6989,7 +6989,7 @@
       "area": "锦竹巷24号"
     }
   },
-  {
+  "p4649": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7004,7 +7004,7 @@
       "area": "龙透关路181号3栋"
     }
   },
-  {
+  "p4650": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7019,7 +7019,7 @@
       "area": "大河街居民楼"
     }
   },
-  {
+  "p4651": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7034,7 +7034,7 @@
       "area": "江南科技产业园管委会办公楼后"
     }
   },
-  {
+  "p4653": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7049,7 +7049,7 @@
       "area": "龙透关路181号1栋"
     }
   },
-  {
+  "p4654": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7064,7 +7064,7 @@
       "area": "石马沟16号1栋"
     }
   },
-  {
+  "p4655": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7079,7 +7079,7 @@
       "area": "江阳西路18号2号楼"
     }
   },
-  {
+  "p4656": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7094,7 +7094,7 @@
       "area": "江阳西路学校1"
     }
   },
-  {
+  "p4657": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7109,7 +7109,7 @@
       "area": "康平路21号"
     }
   },
-  {
+  "p4658": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7124,7 +7124,7 @@
       "area": "龙透关居民楼"
     }
   },
-  {
+  "p4659": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7139,7 +7139,7 @@
       "area": "石油公司宿舍2"
     }
   },
-  {
+  "p4660": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7154,7 +7154,7 @@
       "area": "金鸭儿小区2d楼后栋"
     }
   },
-  {
+  "p4661": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7169,7 +7169,7 @@
       "area": "江阳西路47号4"
     }
   },
-  {
+  "p4662": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7184,7 +7184,7 @@
       "area": "石马沟110号1栋"
     }
   },
-  {
+  "p4663": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7199,7 +7199,7 @@
       "area": "青果湾居民楼"
     }
   },
-  {
+  "p4664": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7214,7 +7214,7 @@
       "area": "刺园路一段34号4栋"
     }
   },
-  {
+  "p4665": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7229,7 +7229,7 @@
       "area": "江阳西路47号3"
     }
   },
-  {
+  "p4667": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7244,7 +7244,7 @@
       "area": "大山坪北段居民楼"
     }
   },
-  {
+  "p4668": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7259,7 +7259,7 @@
       "area": "石马沟73号"
     }
   },
-  {
+  "p4669": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7274,7 +7274,7 @@
       "area": "人医宿舍"
     }
   },
-  {
+  "p4672": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7289,7 +7289,7 @@
       "area": "江阳西路学校3"
     }
   },
-  {
+  "p4673": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7304,7 +7304,7 @@
       "area": "前进中路居民楼3"
     }
   },
-  {
+  "p4674": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7319,7 +7319,7 @@
       "area": "市政府大梯步下"
     }
   },
-  {
+  "p4675": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7334,7 +7334,7 @@
       "area": "锦竹巷22号"
     }
   },
-  {
+  "p4676": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7349,7 +7349,7 @@
       "area": "江阳村10号楼前靠树"
     }
   },
-  {
+  "p4677": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7364,7 +7364,7 @@
       "area": "淘弥洞巷6号"
     }
   },
-  {
+  "p4678": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7379,7 +7379,7 @@
       "area": "淘弥洞巷10号"
     }
   },
-  {
+  "p4679": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7394,7 +7394,7 @@
       "area": "康定路42号1单元"
     }
   },
-  {
+  "p4680": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7409,7 +7409,7 @@
       "area": "市政府转盘"
     }
   },
-  {
+  "p4681": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7424,7 +7424,7 @@
       "area": "江阳西路47号1"
     }
   },
-  {
+  "p4682": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7439,7 +7439,7 @@
       "area": "西苑路5号6号楼前"
     }
   },
-  {
+  "p4683": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7454,7 +7454,7 @@
       "area": "青果湾巷54号"
     }
   },
-  {
+  "p4684": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7469,7 +7469,7 @@
       "area": "石油公司宿舍"
     }
   },
-  {
+  "p4685": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7484,7 +7484,7 @@
       "area": "川泸运业有限公司5"
     }
   },
-  {
+  "p4686": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7499,7 +7499,7 @@
       "area": "川泸运业有限公司4"
     }
   },
-  {
+  "p4687": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7514,7 +7514,7 @@
       "area": "康定路42号绿化带"
     }
   },
-  {
+  "p4688": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7529,7 +7529,7 @@
       "area": "阳光路16号7栋"
     }
   },
-  {
+  "p4689": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7544,7 +7544,7 @@
       "area": "稻子田10号院"
     }
   },
-  {
+  "p4690": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7559,7 +7559,7 @@
       "area": "静园路1号"
     }
   },
-  {
+  "p4691": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7574,7 +7574,7 @@
       "area": "跃进路5号"
     }
   },
-  {
+  "p4692": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7589,7 +7589,7 @@
       "area": "阳光路16号8栋"
     }
   },
-  {
+  "p4693": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7604,7 +7604,7 @@
       "area": "石马沟3栋3单元"
     }
   },
-  {
+  "p4694": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7619,7 +7619,7 @@
       "area": "忠山路二段居民楼2"
     }
   },
-  {
+  "p4695": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7634,7 +7634,7 @@
       "area": "卧龙坳7号"
     }
   },
-  {
+  "p4696": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7649,7 +7649,7 @@
       "area": "锦竹巷13号（3）"
     }
   },
-  {
+  "p4697": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7664,7 +7664,7 @@
       "area": "江阳巷12号1栋"
     }
   },
-  {
+  "p4698": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7679,7 +7679,7 @@
       "area": "康平路22号"
     }
   },
-  {
+  "p4699": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7694,7 +7694,7 @@
       "area": "肖巷子2"
     }
   },
-  {
+  "p4700": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7709,7 +7709,7 @@
       "area": "江阳西路47号2"
     }
   },
-  {
+  "p4701": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7724,7 +7724,7 @@
       "area": "静园路32号"
     }
   },
-  {
+  "p4702": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7739,7 +7739,7 @@
       "area": "皂角巷1号"
     }
   },
-  {
+  "p4703": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7754,7 +7754,7 @@
       "area": "江阳巷24号1栋"
     }
   },
-  {
+  "p4704": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7769,7 +7769,7 @@
       "area": "大慈路居民楼楼后"
     }
   },
-  {
+  "p4705": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7784,7 +7784,7 @@
       "area": "连江路一段居民楼车库"
     }
   },
-  {
+  "p4706": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7799,7 +7799,7 @@
       "area": "康平路62号1栋"
     }
   },
-  {
+  "p4707": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7814,7 +7814,7 @@
       "area": "桃园路4号院5号楼后"
     }
   },
-  {
+  "p4708": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7829,7 +7829,7 @@
       "area": "江阳南路居民楼"
     }
   },
-  {
+  "p4709": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7844,7 +7844,7 @@
       "area": "江阳巷22号1栋"
     }
   },
-  {
+  "p4710": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7859,7 +7859,7 @@
       "area": "川泸运业有限公司1"
     }
   },
-  {
+  "p4711": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7874,7 +7874,7 @@
       "area": "劳动路居民楼"
     }
   },
-  {
+  "p4713": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7889,7 +7889,7 @@
       "area": "忠山路二段居民楼"
     }
   },
-  {
+  "p4714": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7904,7 +7904,7 @@
       "area": "农机公司宿舍"
     }
   },
-  {
+  "p4715": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7919,7 +7919,7 @@
       "area": "江阳西路228号2栋"
     }
   },
-  {
+  "p4716": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7934,7 +7934,7 @@
       "area": "巴士小区B区"
     }
   },
-  {
+  "p4717": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7949,7 +7949,7 @@
       "area": "江阳西路230号1栋"
     }
   },
-  {
+  "p4718": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7964,7 +7964,7 @@
       "area": "江阳中路2"
     }
   },
-  {
+  "p4719": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7979,7 +7979,7 @@
       "area": "前进中路居民楼2"
     }
   },
-  {
+  "p4720": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -7994,7 +7994,7 @@
       "area": "治平路居民楼1"
     }
   },
-  {
+  "p4721": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8009,7 +8009,7 @@
       "area": "重湾公厕"
     }
   },
-  {
+  "p4722": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8024,7 +8024,7 @@
       "area": "党校2"
     }
   },
-  {
+  "p4723": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8039,7 +8039,7 @@
       "area": "连江路1栋2单元"
     }
   },
-  {
+  "p4724": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8054,7 +8054,7 @@
       "area": "党校1"
     }
   },
-  {
+  "p4725": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8069,7 +8069,7 @@
       "area": "桂花街居民楼"
     }
   },
-  {
+  "p4726": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8084,7 +8084,7 @@
       "area": "阳光路52号4栋"
     }
   },
-  {
+  "p4727": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8099,7 +8099,7 @@
       "area": "石马沟62号1栋1单元"
     }
   },
-  {
+  "p4728": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8114,7 +8114,7 @@
       "area": "江阳职高2"
     }
   },
-  {
+  "p4729": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8129,7 +8129,7 @@
       "area": "云和苑"
     }
   },
-  {
+  "p4730": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8144,7 +8144,7 @@
       "area": "江阳村楼后靠花台"
     }
   },
-  {
+  "p4731": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8159,7 +8159,7 @@
       "area": "阳光路52号5栋"
     }
   },
-  {
+  "p4732": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8174,7 +8174,7 @@
       "area": "中小企业服务中心"
     }
   },
-  {
+  "p4733": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8189,7 +8189,7 @@
       "area": "龙透关居民楼4"
     }
   },
-  {
+  "p4734": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8204,7 +8204,7 @@
       "area": "农机公司宿舍2"
     }
   },
-  {
+  "p4735": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8219,7 +8219,7 @@
       "area": "阳光路52号1栋"
     }
   },
-  {
+  "p4736": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8234,7 +8234,7 @@
       "area": "江阳巷18号1栋"
     }
   },
-  {
+  "p4737": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8249,7 +8249,7 @@
       "area": "阳光路52号2栋"
     }
   },
-  {
+  "p4739": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8264,7 +8264,7 @@
       "area": "石马沟居民楼"
     }
   },
-  {
+  "p4740": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8279,7 +8279,7 @@
       "area": "大慈路居民楼"
     }
   },
-  {
+  "p4741": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8294,7 +8294,7 @@
       "area": "桂花街居民楼2"
     }
   },
-  {
+  "p4742": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8309,7 +8309,7 @@
       "area": "花园路居民楼"
     }
   },
-  {
+  "p4743": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8324,7 +8324,7 @@
       "area": "金钱街居民楼"
     }
   },
-  {
+  "p4745": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8339,7 +8339,7 @@
       "area": "建国医院洗车场前"
     }
   },
-  {
+  "p4746": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8354,7 +8354,7 @@
       "area": "卧龙坳9号"
     }
   },
-  {
+  "p4747": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8369,7 +8369,7 @@
       "area": "阳光路3号院5号楼侧"
     }
   },
-  {
+  "p4749": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8384,7 +8384,7 @@
       "area": "大山坪居民楼2"
     }
   },
-  {
+  "p4750": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8399,7 +8399,7 @@
       "area": "江阳职高1"
     }
   },
-  {
+  "p4751": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8414,7 +8414,7 @@
       "area": "江阳西路居民楼"
     }
   },
-  {
+  "p4752": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8429,7 +8429,7 @@
       "area": "官井巷居民楼"
     }
   },
-  {
+  "p4753": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8444,7 +8444,7 @@
       "area": "工商银行宿舍2"
     }
   },
-  {
+  "p4754": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8459,7 +8459,7 @@
       "area": "石马沟居民楼1"
     }
   },
-  {
+  "p4755": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8474,7 +8474,7 @@
       "area": "南苑宾馆员工宿舍楼"
     }
   },
-  {
+  "p4756": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8489,7 +8489,7 @@
       "area": "莲花池居民楼"
     }
   },
-  {
+  "p4757": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8504,7 +8504,7 @@
       "area": "小关门居民楼1"
     }
   },
-  {
+  "p4758": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8519,7 +8519,7 @@
       "area": "仁和路居民楼2"
     }
   },
-  {
+  "p4759": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8534,7 +8534,7 @@
       "area": "滨江路二段居民楼"
     }
   },
-  {
+  "p4760": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8549,7 +8549,7 @@
       "area": "小关门居民楼"
     }
   },
-  {
+  "p4761": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8564,7 +8564,7 @@
       "area": "工商银行宿舍"
     }
   },
-  {
+  "p4762": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8579,7 +8579,7 @@
       "area": "大北城恒居民楼"
     }
   },
-  {
+  "p4763": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8594,7 +8594,7 @@
       "area": "前进下路98号1栋"
     }
   },
-  {
+  "p4764": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8609,7 +8609,7 @@
       "area": "新区转盘市场"
     }
   },
-  {
+  "p4765": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8624,7 +8624,7 @@
       "area": "党校宿舍大门"
     }
   },
-  {
+  "p4766": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8639,7 +8639,7 @@
       "area": "滨江路二段居民楼1"
     }
   },
-  {
+  "p4767": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8654,7 +8654,7 @@
       "area": "仁和路居民楼1"
     }
   },
-  {
+  "p4768": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8669,7 +8669,7 @@
       "area": "后兴隆街2"
     }
   },
-  {
+  "p4769": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8684,7 +8684,7 @@
       "area": "刺园路一段74号大门"
     }
   },
-  {
+  "p4770": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8699,7 +8699,7 @@
       "area": "仁和路55号2号"
     }
   },
-  {
+  "p4771": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8714,7 +8714,7 @@
       "area": "长江机械厂宿舍"
     }
   },
-  {
+  "p4772": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8729,7 +8729,7 @@
       "area": "肖巷子"
     }
   },
-  {
+  "p4773": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8744,7 +8744,7 @@
       "area": "党校"
     }
   },
-  {
+  "p4774": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8759,7 +8759,7 @@
       "area": "江阳村11号侧面绿化带"
     }
   },
-  {
+  "p4775": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8774,7 +8774,7 @@
       "area": "江阳中路3"
     }
   },
-  {
+  "p4776": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8789,7 +8789,7 @@
       "area": "江阳西路228号"
     }
   },
-  {
+  "p4777": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8804,7 +8804,7 @@
       "area": "刺园路3段7号2号侧"
     }
   },
-  {
+  "p4779": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8819,7 +8819,7 @@
       "area": "卧龙坳5号"
     }
   },
-  {
+  "p4780": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8834,7 +8834,7 @@
       "area": "麻柳湾居民楼3"
     }
   },
-  {
+  "p4781": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8849,7 +8849,7 @@
       "area": "刺园路3段7号3号下面"
     }
   },
-  {
+  "p4782": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8864,7 +8864,7 @@
       "area": "新三村居民楼3"
     }
   },
-  {
+  "p4783": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8879,7 +8879,7 @@
       "area": "麻柳湾居民楼4"
     }
   },
-  {
+  "p4784": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8894,7 +8894,7 @@
       "area": "前进中路居民楼"
     }
   },
-  {
+  "p4785": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8909,7 +8909,7 @@
       "area": "江阳中路52号(江阳中路402号)"
     }
   },
-  {
+  "p4786": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8924,7 +8924,7 @@
       "area": "正兴隆街28号3栋"
     }
   },
-  {
+  "p4787": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8939,7 +8939,7 @@
       "area": "连江路二段84号2"
     }
   },
-  {
+  "p4788": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8954,7 +8954,7 @@
       "area": "党校宿舍"
     }
   },
-  {
+  "p4789": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8969,7 +8969,7 @@
       "area": "稻子田5号楼"
     }
   },
-  {
+  "p4790": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8984,7 +8984,7 @@
       "area": "正兴隆街28号4栋"
     }
   },
-  {
+  "p4791": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -8999,7 +8999,7 @@
       "area": "后兴隆街"
     }
   },
-  {
+  "p4792": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9014,7 +9014,7 @@
       "area": "锦竹巷11号3单元后"
     }
   },
-  {
+  "p4793": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9029,7 +9029,7 @@
       "area": "锦竹巷9号旁"
     }
   },
-  {
+  "p4794": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9044,7 +9044,7 @@
       "area": "桥南公厕"
     }
   },
-  {
+  "p4795": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9059,7 +9059,7 @@
       "area": "洁美大院"
     }
   },
-  {
+  "p4796": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9074,7 +9074,7 @@
       "area": "康平路36号1栋"
     }
   },
-  {
+  "p4797": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9089,7 +9089,7 @@
       "area": "锦竹巷11号4单元后"
     }
   },
-  {
+  "p4798": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9104,7 +9104,7 @@
       "area": "石马沟16号2栋"
     }
   },
-  {
+  "p4799": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9119,7 +9119,7 @@
       "area": "大慈路居民楼楼前"
     }
   },
-  {
+  "p4800": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9134,7 +9134,7 @@
       "area": "连江路三段居民楼"
     }
   },
-  {
+  "p4801": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9149,7 +9149,7 @@
       "area": "忠山路一段居民楼"
     }
   },
-  {
+  "p4802": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9164,7 +9164,7 @@
       "area": "宰牛院小区院内"
     }
   },
-  {
+  "p4803": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9179,7 +9179,7 @@
       "area": "飞跃街居民楼"
     }
   },
-  {
+  "p4804": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9194,7 +9194,7 @@
       "area": "萝卜院居民楼"
     }
   },
-  {
+  "p4806": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9209,7 +9209,7 @@
       "area": "前进下路98号3栋"
     }
   },
-  {
+  "p4807": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9224,7 +9224,7 @@
       "area": "莲花池居民楼1"
     }
   },
-  {
+  "p4808": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9239,7 +9239,7 @@
       "area": "前进下路98号2栋"
     }
   },
-  {
+  "p4809": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9254,7 +9254,7 @@
       "area": "毛家院居民楼"
     }
   },
-  {
+  "p4810": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9269,7 +9269,7 @@
       "area": "花园路居民楼1"
     }
   },
-  {
+  "p4811": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9284,7 +9284,7 @@
       "area": "皂角巷居民楼1"
     }
   },
-  {
+  "p4812": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9299,7 +9299,7 @@
       "area": "皂角巷居民楼"
     }
   },
-  {
+  "p4813": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9314,7 +9314,7 @@
       "area": "华兴创业园专家公寓楼前花坛"
     }
   },
-  {
+  "p4827": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9329,7 +9329,7 @@
       "area": "静苑小区3"
     }
   },
-  {
+  "p4828": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9344,7 +9344,7 @@
       "area": "桃园路居民楼"
     }
   },
-  {
+  "p4829": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9359,7 +9359,7 @@
       "area": "静苑小区2"
     }
   },
-  {
+  "p4830": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9374,7 +9374,7 @@
       "area": "滨江路133号1单元"
     }
   },
-  {
+  "p4833": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9389,7 +9389,7 @@
       "area": "忠山路三段居民楼"
     }
   },
-  {
+  "p4846": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9404,7 +9404,7 @@
       "area": "庆园路居民楼"
     }
   },
-  {
+  "p4848": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9419,7 +9419,7 @@
       "area": "东门口社区居民楼1"
     }
   },
-  {
+  "p4849": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9434,7 +9434,7 @@
       "area": "大山坪居民楼1"
     }
   },
-  {
+  "p4850": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9449,7 +9449,7 @@
       "area": "大山坪北段居民楼1"
     }
   },
-  {
+  "p4851": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9464,7 +9464,7 @@
       "area": "静苑小区"
     }
   },
-  {
+  "p4852": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9479,7 +9479,7 @@
       "area": "大山坪北段居民楼2"
     }
   },
-  {
+  "p4853": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9494,7 +9494,7 @@
       "area": "巴士小区C区"
     }
   },
-  {
+  "p4879": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9509,7 +9509,7 @@
       "area": "宰牛院小区值班室前"
     }
   },
-  {
+  "p4900": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9524,7 +9524,7 @@
       "area": "酒香苑"
     }
   },
-  {
+  "p4903": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9539,7 +9539,7 @@
       "area": "建司大院花台中"
     }
   },
-  {
+  "p4906": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9554,7 +9554,7 @@
       "area": "龙跃小区"
     }
   },
-  {
+  "p5004": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9569,7 +9569,7 @@
       "area": "宝庆后上街活动室"
     }
   },
-  {
+  "p64": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9584,7 +9584,7 @@
       "area": "泸州市市政府家属院"
     }
   },
-  {
+  "p72": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9599,7 +9599,7 @@
       "area": "彭湾公厕"
     }
   },
-  {
+  "p81": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9614,7 +9614,7 @@
       "area": "蓝田幼儿园"
     }
   },
-  {
+  "p82": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9629,7 +9629,7 @@
       "area": "江阳区党政大楼"
     }
   },
-  {
+  "p83": {
     "geometry": {
       "type": "Point",
       "coordinates": [
@@ -9644,4 +9644,4 @@
       "area": "指挥中心楼下"
     }
   }
-]
+}
