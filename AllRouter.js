@@ -79,7 +79,7 @@ All.post("/queryAll", function (request, response) {
     }
     var now_date = time.time_to_number()
     var con = mysql.createConnection(sql_config)
-    var sql_query_str = "select * from datasetsTable where ?-dateTime in (select min(?-dateTime) from datasetsTable);"
+    var sql_query_str = "select * from datasetsTable where dateTime in (select max(dateTime) from datasetsTable group by id) group by id;"
     con.connect()
     con.query(sql_query_str, [now_date, now_date], function (err, result) {
         if (err) {
