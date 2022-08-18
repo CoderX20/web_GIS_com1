@@ -32,14 +32,22 @@ function get_points_data() {
                     }
                     else {
                         pointsInfor = JSON.parse(pointsInfor)
+                        var con = mysql.createConnection(sql_config)
+                        con.connect()
+                        var sql_delete_str = "delete from latest"
+                        con.query(sql_delete_str, function (err0) {
+                            if (err0) {
+                                throw err0
+                            }
+                            else { }
+                        })
                         for (var ind in pointsInfor) {
                             var i = Math.floor(Math.random() * data.data.length)
                             var id = pointsInfor[ind].properties.id
                             var place = pointsInfor[ind].properties.area
                             var gas_data = data.data[i]
                             var date = time.time_to_number()
-                            var con = mysql.createConnection(sql_config)
-                            con.connect()
+
                             var sql_insert_str = "insert into datasetsTable set ?"
                             var insert_values = { id: id, area: place, alarming: gas_data.alarming, ch4: gas_data.ch4, h2s: gas_data.h2s, dateTime: date }
                             con.query(sql_insert_str, insert_values, function (err2) {
@@ -48,8 +56,18 @@ function get_points_data() {
                                 }
                                 else { }
                             })
-                            con.end()
+                            sql_insert_str = "insert into latest set ?"
+                            con.query(sql_insert_str, insert_values, function (err3) {
+                                if (err3) {
+                                    throw err3
+                                }
+                                else { 
+                                    // console.log(insert_values)
+                                }
+                            })
+
                         }
+                        con.end()
                     }
                 })
             }

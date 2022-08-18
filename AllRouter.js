@@ -79,7 +79,7 @@ All.post("/queryAll", function (request, response) {
     }
     var now_date = time.time_to_number()
     var con = mysql.createConnection(sql_config)
-    var sql_query_str = "select * from datasetsTable where dateTime in (select max(dateTime) from datasetsTable group by id) group by id;"
+    var sql_query_str = "select * from latest group by id"
     con.connect()
     con.query(sql_query_str, [now_date, now_date], function (err, result) {
         if (err) {
@@ -141,6 +141,7 @@ All.post("/queryAll", function (request, response) {
 
                         
                     }
+                    // console.log(DataPoints.first.length+DataPoints.second.length+DataPoints.normal.length)
                     response.send(DataPoints)
                 }
             })

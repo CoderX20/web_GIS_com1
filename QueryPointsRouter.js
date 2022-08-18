@@ -27,10 +27,11 @@ Query.post("/queryPoint", function (request, response) {
         area: "",
         data: []
     }
+    var now_date=time.time_to_number()
     var con = mysql.createConnection(sql_config)
-    var sql_query_str = "select * from datasetsTable where id=? order by dateTime asc "
+    var sql_query_str = "select * from datasetsTable where id=? and dateTime>=?-1000000 and dateTime%10000=0 group by dateTime order by dateTime asc "
     con.connect()
-    con.query(sql_query_str, [id], function (err, result) {
+    con.query(sql_query_str, [id,now_date], function (err, result) {
         if (err) {
             throw err
         }
