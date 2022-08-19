@@ -27,29 +27,42 @@ Query.post("/queryPoint", function (request, response) {
         area: "",
         data: []
     }
-    var now_date=time.time_to_number()
-    var con = mysql.createConnection(sql_config)
-    var sql_query_str = "select * from datasetsTable where id=? and dateTime>=?-1000000 and dateTime%10000=0 group by dateTime order by dateTime asc "
-    con.connect()
-    con.query(sql_query_str, [id,now_date], function (err, result) {
-        if (err) {
-            throw err
+    var now_date = time.time_to_number()
+    var check_con = mysql.createConnection(sql_config)
+    check_con.connect()
+    check_con.query("select * from datasetsTable where id = ?", [id], function (err0, data) {
+        if (err0) {
+            throw err0
         }
         else {
-            if (result.length == 0) {
+            if (data.length == 0) {
                 pointsData.id = -1
                 response.send(pointsData)
             }
             else {
-                for (var row_value in result) {
-                    pointsData.area = result[row_value].area
-                    pointsData.data.push(new moment(result[row_value].ch4, result[row_value].h2s, result[row_value].dateTime, result[row_value].alarming))
-                }
-                response.send(pointsData)
+                var con = mysql.createConnection(sql_config)
+                var sql_query_str = "select * from datasetsTable where id=? and dateTime>=?-1000000 and dateTime%10000=0 group by dateTime order by dateTime asc "
+                con.connect()
+                con.query(sql_query_str, [id, now_date], function (err, result) {
+                    if (err) {
+                        throw err
+                    }
+                    else {
+
+                        for (var row_value in result) {
+                            pointsData.area = result[row_value].area
+                            pointsData.data.push(new moment(result[row_value].ch4, result[row_value].h2s, result[row_value].dateTime, result[row_value].alarming))
+                        }
+                        response.send(pointsData)
+
+                    }
+                })
+                con.end()
             }
         }
     })
-    con.end()
+    check_con.end()
+
 })
 
 module.exports = Query

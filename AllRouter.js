@@ -79,9 +79,9 @@ All.post("/queryAll", function (request, response) {
     }
     var now_date = time.time_to_number()
     var con = mysql.createConnection(sql_config)
-    var sql_query_str = "select * from latest group by id"
+    var sql_query_str = "select * from latest  where dateTime>=?-1000000 group by id"
     con.connect()
-    con.query(sql_query_str, [now_date, now_date], function (err, result) {
+    con.query(sql_query_str, [now_date], function (err, result) {
         if (err) {
             throw err
         }
